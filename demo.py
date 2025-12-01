@@ -1,2 +1,2 @@
 print("hello world")
-#chek diff
+#check diff
